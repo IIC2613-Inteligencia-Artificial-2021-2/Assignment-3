@@ -1,4 +1,4 @@
-# IIC2613 - Enunciado Tarea 2
+# IIC2613 - Enunciado Tarea 3
 
 Este repositorio tiene el enunciado de la tarea 3.
 
